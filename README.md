@@ -1,6 +1,6 @@
 <h1>Sobre mim:</h1>
 
-- 👋 Olá, eu sou @DeusAbsoluto666
+- 👋 Olá, eu sou Arthur Nagy Tibes
 - 👀 Tenho interesse em programação
 - 🌱 Estou atualmente aprendendo HTML, CSS e futuramente JavaScript e Python!
 - 💞️ Busco colaborar com a evolução da <strong> tecnologia <strong>!
